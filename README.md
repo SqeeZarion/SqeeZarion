@@ -1,9 +1,24 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqeeZarion&show_icons=true&theme=algolia)
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only%22%3E
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SqeeZarion&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=algolia&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only%22%3E
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SqeeZarion&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=algolia&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SqeeZarion&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only%22%3E
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SqeeZarion&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only%22%3E
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SqeeZarion&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=algolia&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
 
 <!--
